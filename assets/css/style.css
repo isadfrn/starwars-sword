@@ -26,11 +26,11 @@
   border-radius: 1rem;
   position: absolute;
   bottom: 10rem;
+  transition: all 200ms linear;
 }
 
 .on {
   background-color: var(--green);
-  transition: all 200ms linear;
 }
 
 .sword__hand {

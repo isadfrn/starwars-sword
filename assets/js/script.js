@@ -1,6 +1,5 @@
 const swordOnAudioUrl = 'https://www.myinstants.com/media/sounds/lightsaber_02.mp3';
 const swordOnAudio = new Audio(swordOnAudioUrl);
-const swordHand = document.querySelector('.sword__hand');
 const swordBody = document.querySelector('.sword__body');
 
 function playSwordAudio(audio) {
