@@ -1,6 +1,6 @@
 # Star Wars Sword
 
-![](./assets/image/demo.gif)
+![](./assets/img/demo.gif)
 
 ![Languages used](https://img.shields.io/github/languages/count/isadfrn/starwars-sword?style=flat-square)
 ![Repository size](https://img.shields.io/github/repo-size/isadfrn/starwars-sword?style=flat-square)
@@ -16,7 +16,7 @@ Install [Live Server extension](https://marketplace.visualstudio.com/items?itemN
 
 ## Status
 
-Done ✅
+Finished 🛑
 
 ## License
 
